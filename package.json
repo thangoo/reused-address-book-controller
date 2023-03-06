@@ -1,5 +1,5 @@
 {
-  "name": "@metamask/address-book-controller",
+  "name": "reused-address-book-controller",
   "version": "2.0.0",
   "description": "Manages a list of recipient addresses associated with nicknames",
   "keywords": [
